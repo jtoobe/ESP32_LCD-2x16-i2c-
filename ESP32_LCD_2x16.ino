@@ -1,3 +1,10 @@
+/*
+*
+* En que direccion esta tu LCD ? usar el programa que escanea direcciones I2C
+*/
+
+
+
 #include <LiquidCrystal_I2C.h>
 
 // Seteamos columnas y filas del display (también vienen de 20x4)
