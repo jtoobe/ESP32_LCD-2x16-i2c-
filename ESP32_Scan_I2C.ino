@@ -1,3 +1,7 @@
+// conectar SDA gpio21
+// conectar SCL gpio22
+
+
 #include <Wire.h>
  
 void setup() {
