@@ -6,6 +6,7 @@
 
 
 #include <LiquidCrystal_I2C.h>
+// Al compilar va a dar un Warning que se puede desestimar
 
 // Seteamos columnas y filas del display (también vienen de 20x4)
 int lcdColumns = 16;
